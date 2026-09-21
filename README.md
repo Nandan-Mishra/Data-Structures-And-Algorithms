@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0989-add-to-array-form-of-integer) |
@@ -83,9 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
