@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0867-transpose-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
