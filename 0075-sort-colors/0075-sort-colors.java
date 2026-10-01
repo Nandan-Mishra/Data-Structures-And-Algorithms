@@ -1,4 +1,4 @@
-class Solution {
+class Solution { // We use Dutch Flag Algo Where we assign every pointer a different flag.
     public void sortColors(int[] nums) {
         int n = nums.length;
         int low=0, mid=0, high=n-1;
