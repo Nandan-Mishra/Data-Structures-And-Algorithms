@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0989-add-to-array-form-of-integer) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Nandan-Mishra/Data-Structures-And-Algorithms/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
